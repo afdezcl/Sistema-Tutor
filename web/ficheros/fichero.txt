@@ -1,0 +1,5 @@
+Este es el fichero al que se ha accedido a partir de una ruta relativa desde un servlet. 
+El servlet llama a la clase de java LeerFichero, con la ruta relativa del fichero y esta clase le devuelve el contenido del fichero.
+ENTONCES, el servlet muestra el contenido del fichero.
+Como parte del contenido README que pedia el ejercicio 2 de la practica 3, se utiliza este mismo fichero para decir que no se definieron las etiquetas "font" por lo que no es necesario incluir la lista.
+

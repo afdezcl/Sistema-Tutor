@@ -1,0 +1,146 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+	background-image: url("../images/bg.png");
+}
+img#gif{
+  position: absolute;
+  margin-left: 300px;
+  margin-top: -150px;
+ 
+}
+
+footer{
+  color: white;
+  width: 100%;
+  position: absolute;
+  bottom: 0 !important;
+  bottom: -1px;
+}
+.box{
+  height: 620px;
+  width: 1200px;
+  margin-top: 200px;
+  border-radius: 12px;
+  background-color: rgb(52, 73, 94, 0.7);
+}
+
+.box img {
+  height: 120px;
+  width: 120px;
+  margin-top: -60px;
+  margin-bottom: 20px;
+}
+
+h2{
+  color: rgb(255, 255, 255, 0.9);
+  padding-bottom: 20px;
+  font-family: Roboto;
+  font-size: 40px;
+}
+h1{
+  color: rgb(255, 255, 255, 0.9);
+  padding-bottom: 20px;
+  font-family: Roboto;
+  font-size: 30px;
+}
+td {
+  color: rgb(255, 255, 255, 0.9);
+  padding-top: 25px;
+  font-family: Roboto;
+  font-size: 20px;
+
+}
+
+.btn-exit-test{
+  float: right;
+  margin-top: -450px;
+  margin-right: 50px;
+  height: 50px;
+  width: 130px;
+  font-size: 18px;
+  font-family: Roboto;
+  color: rgb(255, 255, 255);
+  background-color: rgb(223, 33, 33);
+  border-radius: 5px;
+  border: none;
+  border-bottom: 4px solid rgb(200, 33, 33);
+  border-right: 1px solid rgb(200, 33, 33);
+}
+.btn-exit-test:hover{
+  background-color: rgb(260, 33, 33);
+}
+.btn-atras{
+  margin-top: 50px;
+  height: 50px;
+  width: 210px;
+  font-size: 18px;
+  font-family: Roboto;
+  color: rgb(255, 255, 255);
+  background-color: rgb(73, 100, 241);
+  border-radius: 5px;
+  border: none;
+  border-bottom: 4px solid rgb(73, 50, 300);
+  border-right: 1px solid rgb(73, 50, 300);
+}
+.btn-atras:hover{
+  background-color: rgb(73, 50, 300);
+}
+.btn-siguiente{
+  margin-top: 50px;
+  height: 50px;
+  width: 210px;
+  font-size: 18px;
+  font-family: Roboto;
+  color: rgb(255, 255, 255);
+  background-color: rgb(64, 224, 208);
+  border-radius: 5px;
+  border: none;
+  border-bottom: 3px solid rgb(64, 200, 208);
+  border-right: 1px solid rgb(64, 200, 208);
+}
+.btn-siguiente:hover{
+  background-color: rgb(64, 250, 208);
+}
+.option-input.radio {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+  position: relative;
+  top: 13.33333px;
+  height: 40px;
+  width: 40px;
+  background: #cbd1d8;
+  color: white;
+  display: inline-block;
+  margin: 0.5rem;
+  border-radius: 50%;
+
+}
+.option-input.radio:hover {
+  background: #9faab7;
+}
+.option-input.radio:checked {
+  background: #40e0d0;
+}
+.option-input:checked::before{
+  height: 40px;
+  width: 40px;
+  position: absolute;
+  content: '✔';
+  font-size: 26.666px;
+  text-align: center;
+  line-height: 40px;
+}
+
+body label {
+  display: block;
+  line-height: 40px;
+  font-size: 20px;
+}

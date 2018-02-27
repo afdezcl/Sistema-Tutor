@@ -1,0 +1,25 @@
+Pregunta 1. ¿Qué es un servlet?
+1
+a. Una clase en Java para ampliar las capacidades de un servidor
+b. Un servidor
+c. Una maquina virtual
+Pregunta 2. JSP significa...
+2
+a. JavaServices Pages 
+b. JavaServer Pages 
+c. Ninguna de las anteriores
+Pregunta 3. El protocolo orientado a conexión es...
+1
+a. TCP
+b. UDP
+c. Todas las anteriores
+Pregunta 4. IP significa
+2
+a. Fibra Optica
+b. Internet Protocol
+c. Dirección
+Pregunta 5. ¿Qué significa LAN?
+2
+a. Linux Area Network
+b. Local Area Network
+c. Linux Association National

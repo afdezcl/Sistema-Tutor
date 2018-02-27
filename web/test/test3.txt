@@ -1,0 +1,25 @@
+Pregunta 1. El ciclo de vida de un Servlet es...
+3
+a. Service, Init, Destroy
+b. Destroy, Init
+c. Init, Service, Destroy
+Pregunta 2. ¿Qué es una cookie?
+2
+a. Una galleta
+b. Archivo que envía un servidor al cliente con información sobre sus preferencias
+c. Ninguna de las anteriores
+Pregunta 3. ¿Cuáles son Sistemas Operativos de red?
+3
+a. Unix
+b. Windows NT
+c. Todas las anteriores
+Pregunta 4. ¿Cuáles de los siguientes son servidores utilizados en NetBeans?
+1
+a. Apache Tomcat
+b. Cat
+c. Tom
+Pregunta 5. ¿Qué significa MVC?
+2
+a. Modelo, Valor, Casa
+b. Modelo, Vista, Controlador
+c. Matriz, Vista, Controlador

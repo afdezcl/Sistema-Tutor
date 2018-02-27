@@ -1,0 +1,25 @@
+Pregunta 1. ¿Cuál es la propiedad en CSS para cambiar el tamaño del texto?
+3
+a. text-size
+b. font-tam
+c. font-size
+Pregunta 2. ¿Qué etiqueta de HTML se emplea para definir una hoja de estilo interna?
+2
+a. link
+b. style
+c. script
+Pregunta 3. En HTML, la etiqueta p se utiliza para
+1
+a. Escribir un párrafo
+b. Mostrar una tabla
+c. Todas las anteriores
+Pregunta 4. ¿Qué etiqueta de HTML se emplea para escribir código JavaScript?
+1
+a. script
+b. link
+c. href
+Pregunta 5. ¿Qué define la etiqueta td en HTML?
+2
+a. Una página
+b. Una celda en una tabla
+c. El título en una tabla

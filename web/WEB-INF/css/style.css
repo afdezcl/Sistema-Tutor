@@ -1,0 +1,75 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-image: url("../images/bg.jpg");
+}
+
+.box{
+  height: 420px;
+  width: 450px;
+  margin-top: 200px;
+  border-radius: 12px;
+  background-color: rgb(52, 73, 94, 0.7);
+}
+
+.box img {
+  height: 120px;
+  width: 120px;
+  margin-top: -60px;
+  margin-bottom: 20px;
+}
+
+h2#login{
+  color: rgb(255, 255, 255, 0.9);
+  padding-bottom: 20px;
+  font-family: Roboto;
+}
+
+input[type="text"],[type="password"]{
+  height: 45px;
+  width: 300px;
+  font-size: 18px;
+  font-family: Roboto;
+  color: rgb(41, 41, 41);
+  margin-bottom: 10px;
+  padding-left: 35px;
+}
+.form-input::before{
+  content: "\f007";
+  position: absolute;
+  font-family: "FontAwesome";
+  font-size: 25px;
+  color: rgb(232, 119, 246);
+  padding-left: 6px;
+  padding-top: 8px;
+}
+.form-input:nth-child(2)::before{
+  content: "\f023";
+}
+.btn-login{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  height: 50px;
+  width: 120px;
+  font-size: 18px;
+  font-family: Roboto;
+  color: rgb(255, 255, 255);
+  background-color: rgb(46, 200, 113);
+  border-radius: 5px;
+  border: none;
+  border-bottom: 4px solid rgb(39,174,96);
+  border-right: 1px solid rgb(39,174,96);
+}
+.btn-login:hover{
+  background-color: rgb(28, 208, 143);
+}
+a#forget{
+  font-size: 18px;
+  font-family: Roboto;
+  text-decoration: none;
+  color: rgb(255, 255, 255, 0.8);
+}
