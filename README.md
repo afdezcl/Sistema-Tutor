@@ -4,5 +4,4 @@ Realiza una función tutor, ofreciendo 3 cuestionarios tipo test.
 
 Se usa:
 
--JSP y SERVLET
--JAVASCRIPT
+-JSP-SERVLET-JAVASCRIPT
